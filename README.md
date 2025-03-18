@@ -2,9 +2,7 @@
 
 A passionate frontend developer from Indonesia  
 
-![Cute Cat](https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif)
-![Cute Cat](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
-![Cute Cat](https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif)
+![Typing Cat](https://media.giphy.com/media/swhRkVYLJDrCE/giphy.gif)
 
 
 ## Connect with me:  
