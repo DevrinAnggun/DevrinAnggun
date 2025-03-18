@@ -2,7 +2,7 @@
 
 A passionate frontend developer from Indonesia  
 
-![Female Developer](https://images.pexels.com/photos/3184163/pexels-photo-3184163.jpeg)
+![Cute Cat](https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif)
 
 ## Connect with me:  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/devrinanggun_)  
