@@ -1,8 +1,7 @@
 # Hi there 👋  
 
 Welcome to my GitHub profile! 🎉  
-I’m a Software Engineering student at **Telkom University Purwokerto**, passionate about **web development, design application, and data analysis**.  
-Here, you can explore the projects and contributions I’ve made during my journey in tech.  
+I’m a Software Engineering student at **Telkom University Purwokerto**, passionate about **web development, design application, and data analysis**. Here, you can explore the projects and contributions I’ve made during my journey in tech.  
 
 <p align="center">
   <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200"/>
