@@ -2,7 +2,7 @@
 
 A passionate frontend developer from Indonesia  
 
-![Cat Coding](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)  
+![Sushi]([https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://i.imgur.com/z5Io4A8_d.webp?maxwidth=760&fidelity=grand))  
 
 ## Connect with me:  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/devrinanggun_)  
