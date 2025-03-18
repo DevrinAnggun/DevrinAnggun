@@ -1,21 +1,23 @@
-# Hi there 👋  
+# Hi, I'm DevrinAnggun!✨  
 
-Welcome to my GitHub profile! 🎉  
-I’m a Software Engineering student at **Telkom University Purwokerto**, passionate about **web development, design application, design thinking, and data analysis**.  
-Here, you can explore the projects and contributions I’ve made during my journey in tech.  
+<p align="center">
+  Welcome to my GitHub profile! 🎉  
+  I’m a Software Engineering student at <b>Telkom University Purwokerto</b>, passionate about <b>web development, design application, and data analysis</b>.  
+  Here, you can explore the projects and contributions I’ve made during my journey in tech.  
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200"/>
 </p>
 
-## Connect with me:  
+## <p align="center">🌐 Connect with me 🌐</p>  
 <p align="center">
   <a href="https://instagram.com/devrinanggun_" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
 
-## ⚒ Languages, Frameworks & Tools ⚒  
+## <p align="center">⚒ Languages, Frameworks & Tools ⚒</p>  
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
