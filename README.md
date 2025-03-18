@@ -3,12 +3,12 @@
 A passionate frontend developer from Indonesia  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200"/>
 </p>
 
 ## Connect with me:  
 <p align="left">
-  <a href="https://instagram.com/yourusername">
+  <a href="https://instagram.com/devrinanggun_">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
